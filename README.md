@@ -1,6 +1,7 @@
 # Clonagem do Site do Starbucks
 
 ![Starbucks Logo](https://www.starbucks.com.br/public/img/icons/starbucks-nav-logo.svg)
+
 ## Descrição
 
 Este projeto é uma clonagem do site oficial da Starbucks, criado para praticar e aprimorar minhas habilidades em **HTML**, **CSS** e **JavaScript**. O objetivo é entender como os elementos do site são estruturados e estilizados, além de aprender a implementar interatividade básica com JavaScript.
